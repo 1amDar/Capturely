@@ -437,7 +437,7 @@ function PhotoCaptureContent() {
           >
             <ArrowLeft size={18} />
           </button>
-          <h1 className="text-2xl font-light text-center text-gray-800">Photo Booth</h1>
+          <h1 className="text-2xl font-light text-center text-gray-800">Capturely</h1>
           <div className="w-10"></div> {/* Spacer for alignment */}
         </div>
 
